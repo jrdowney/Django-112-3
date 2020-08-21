@@ -1,0 +1,17 @@
+
+
+.card-horizontal {
+    margin-top: 20px;
+    display: flex;
+    flex: 1 1 auto;
+}
+
+.card-footer {
+    background: transparent;
+    border-top: 0px;
+}
+
+img {
+    max-width: 200px;
+    max-height: 300px;
+}
